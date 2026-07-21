@@ -185,7 +185,7 @@ dependencies {
     implementation 'me.saket:better-link-movement-method:2.2.0'
 
     // Animations
-    implementation 'com.airbnb.android:lottie:6.4.1'
+    implementation 'com.airbnb.android:lottie:6.7.1'
 
     // Loading ProgressBar
     implementation 'com.lsjwzh:materialloadingprogressbar:0.5.8-RELEASE'
