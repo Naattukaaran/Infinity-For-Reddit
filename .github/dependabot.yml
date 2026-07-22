@@ -4,6 +4,8 @@ updates:
     directory: "/app"
     schedule:
       interval: "weekly"
+   reviewers:
+      - "Naattukaaran"
       
   # Updates for Gradle dependencies used in the app
   # - package-ecosystem: gradle
