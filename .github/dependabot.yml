@@ -4,6 +4,7 @@ updates:
     directory: "/app"
     schedule:
       interval: "weekly"
+      
   # Updates for Gradle dependencies used in the app
   # - package-ecosystem: gradle
   #   directory: "/"
