@@ -9,7 +9,7 @@ android {
     compileSdk = 36
     defaultConfig {
         applicationId "ml.docilealligator.infinityforreddit"
-        minSdk 21
+        minSdk 35
         targetSdk 36
         versionCode 224
         versionName "8.3.0-beta3"
